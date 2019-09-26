@@ -1,0 +1,10 @@
+D:\jonpuerto\ACCESO A DATOS\ArchivosResumenActividad2\ArchivosResumenActividad2\obj\Debug\ArchivosResumenActividad2.csprojAssemblyReference.cache
+D:\jonpuerto\ACCESO A DATOS\ArchivosResumenActividad2\ArchivosResumenActividad2\obj\Debug\ArchivosResumenActividad2.Form1.resources
+D:\jonpuerto\ACCESO A DATOS\ArchivosResumenActividad2\ArchivosResumenActividad2\obj\Debug\ArchivosResumenActividad2.Properties.Resources.resources
+D:\jonpuerto\ACCESO A DATOS\ArchivosResumenActividad2\ArchivosResumenActividad2\obj\Debug\ArchivosResumenActividad2.csproj.GenerateResource.cache
+D:\jonpuerto\ACCESO A DATOS\ArchivosResumenActividad2\ArchivosResumenActividad2\obj\Debug\ArchivosResumenActividad2.csproj.CoreCompileInputs.cache
+D:\jonpuerto\ACCESO A DATOS\ArchivosResumenActividad2\ArchivosResumenActividad2\bin\Debug\ArchivosResumenActividad2.exe.config
+D:\jonpuerto\ACCESO A DATOS\ArchivosResumenActividad2\ArchivosResumenActividad2\bin\Debug\ArchivosResumenActividad2.exe
+D:\jonpuerto\ACCESO A DATOS\ArchivosResumenActividad2\ArchivosResumenActividad2\bin\Debug\ArchivosResumenActividad2.pdb
+D:\jonpuerto\ACCESO A DATOS\ArchivosResumenActividad2\ArchivosResumenActividad2\obj\Debug\ArchivosResumenActividad2.exe
+D:\jonpuerto\ACCESO A DATOS\ArchivosResumenActividad2\ArchivosResumenActividad2\obj\Debug\ArchivosResumenActividad2.pdb
