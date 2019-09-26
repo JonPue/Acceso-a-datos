@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="DropDownListt.SiteMaster" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ActividadWebForms1.SiteMaster" %>
 
 <!DOCTYPE html>
 
@@ -42,19 +42,24 @@
         <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
+                    <h1>
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">Nombre de la aplicación</a>
+                    Jiva Prueba<asp:Image ID="Image2" runat="server" Height="114px" ImageUrl="~/LogoMakr_2sOBiW.png" Width="259px" />
+                        <br />
+                    </h1>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">Inicio</a></li>
+                        <li><a runat="server" href="~/">Hasiera</a></li>
                         <li><a runat="server" href="~/About">Acerca de</a></li>
                         <li><a runat="server" href="~/Contact">Contacto</a></li>
+                        <li><a runat="server" href="~/WebForm1">WebForm</a></li>
                     </ul>
+        
                 </div>
             </div>
         </div>
@@ -63,7 +68,8 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Mi aplicación ASP.NET</p>
+                <asp:Image ID="Image1" runat="server" ImageUrl="https://cdn-1.motorsport.com/images/mgl/2wB8RLK0/s8/valentino-rossi-yamaha-factory-1.jpg" Width="241px" />
+                <p>&copy; <%: DateTime.Now.Year %> <%: DateTime.Now.DayOfWeek%></p>
             </footer>
         </div>
 

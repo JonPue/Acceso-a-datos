@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="DropDownListt.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ActividadWebForms1.Global" Language="C#" %>

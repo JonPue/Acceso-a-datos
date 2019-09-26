@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DropDownListt {
+namespace ActividadWebForms1 {
     
     
     public partial class Site_Mobile {
