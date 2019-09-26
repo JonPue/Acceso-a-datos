@@ -1,0 +1,11 @@
+D:\jonpuerto\ACCESO A DATOS\ActividadArchivosDeTexto\bin\Debug\netcoreapp2.1\ActividadArchivosDeTexto.deps.json
+D:\jonpuerto\ACCESO A DATOS\ActividadArchivosDeTexto\bin\Debug\netcoreapp2.1\ActividadArchivosDeTexto.runtimeconfig.json
+D:\jonpuerto\ACCESO A DATOS\ActividadArchivosDeTexto\bin\Debug\netcoreapp2.1\ActividadArchivosDeTexto.runtimeconfig.dev.json
+D:\jonpuerto\ACCESO A DATOS\ActividadArchivosDeTexto\bin\Debug\netcoreapp2.1\ActividadArchivosDeTexto.dll
+D:\jonpuerto\ACCESO A DATOS\ActividadArchivosDeTexto\bin\Debug\netcoreapp2.1\ActividadArchivosDeTexto.pdb
+D:\jonpuerto\ACCESO A DATOS\ActividadArchivosDeTexto\obj\Debug\netcoreapp2.1\ActividadArchivosDeTexto.csprojAssemblyReference.cache
+D:\jonpuerto\ACCESO A DATOS\ActividadArchivosDeTexto\obj\Debug\netcoreapp2.1\ActividadArchivosDeTexto.csproj.CoreCompileInputs.cache
+D:\jonpuerto\ACCESO A DATOS\ActividadArchivosDeTexto\obj\Debug\netcoreapp2.1\ActividadArchivosDeTexto.AssemblyInfoInputs.cache
+D:\jonpuerto\ACCESO A DATOS\ActividadArchivosDeTexto\obj\Debug\netcoreapp2.1\ActividadArchivosDeTexto.AssemblyInfo.cs
+D:\jonpuerto\ACCESO A DATOS\ActividadArchivosDeTexto\obj\Debug\netcoreapp2.1\ActividadArchivosDeTexto.dll
+D:\jonpuerto\ACCESO A DATOS\ActividadArchivosDeTexto\obj\Debug\netcoreapp2.1\ActividadArchivosDeTexto.pdb
