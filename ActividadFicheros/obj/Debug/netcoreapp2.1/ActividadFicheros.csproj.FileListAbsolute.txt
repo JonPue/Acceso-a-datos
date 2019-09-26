@@ -1,0 +1,11 @@
+D:\jonpuerto\ACCESO A DATOS\ActividadFicheros\bin\Debug\netcoreapp2.1\ActividadFicheros.deps.json
+D:\jonpuerto\ACCESO A DATOS\ActividadFicheros\bin\Debug\netcoreapp2.1\ActividadFicheros.runtimeconfig.json
+D:\jonpuerto\ACCESO A DATOS\ActividadFicheros\bin\Debug\netcoreapp2.1\ActividadFicheros.runtimeconfig.dev.json
+D:\jonpuerto\ACCESO A DATOS\ActividadFicheros\bin\Debug\netcoreapp2.1\ActividadFicheros.dll
+D:\jonpuerto\ACCESO A DATOS\ActividadFicheros\bin\Debug\netcoreapp2.1\ActividadFicheros.pdb
+D:\jonpuerto\ACCESO A DATOS\ActividadFicheros\obj\Debug\netcoreapp2.1\ActividadFicheros.csprojAssemblyReference.cache
+D:\jonpuerto\ACCESO A DATOS\ActividadFicheros\obj\Debug\netcoreapp2.1\ActividadFicheros.csproj.CoreCompileInputs.cache
+D:\jonpuerto\ACCESO A DATOS\ActividadFicheros\obj\Debug\netcoreapp2.1\ActividadFicheros.AssemblyInfoInputs.cache
+D:\jonpuerto\ACCESO A DATOS\ActividadFicheros\obj\Debug\netcoreapp2.1\ActividadFicheros.AssemblyInfo.cs
+D:\jonpuerto\ACCESO A DATOS\ActividadFicheros\obj\Debug\netcoreapp2.1\ActividadFicheros.dll
+D:\jonpuerto\ACCESO A DATOS\ActividadFicheros\obj\Debug\netcoreapp2.1\ActividadFicheros.pdb
